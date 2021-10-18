@@ -34,5 +34,25 @@
     "preview": "posts/2021-10-18-location-of-us/2.jpg",
     "last_modified": "2021-10-18T12:43:30+07:00",
     "input_file": "location-of-us.knit.md"
+  },
+  {
+    "path": "posts/2021-10-18-example-of-the-data-analytic-plot/",
+    "title": "Example of the data analytic plot",
+    "description": "A plot show the visulized data.",
+    "author": [
+      {
+        "name": "Poramed T",
+        "url": "https://github.com/Poramedt"
+      }
+    ],
+    "date": "2021-10-18",
+    "categories": [
+      "Job Example",
+      "Description"
+    ],
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-10-18-example-of-the-data-analytic-plot/example-of-the-data-analytic-plot_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2021-10-18T13:00:44+07:00",
+    "input_file": "example-of-the-data-analytic-plot.knit.md"
   }
 ]

@@ -1,0 +1,29 @@
+---
+title: "Example of the data analytic plot"
+description: |
+  A plot show the visulized data.
+author:
+  - name: Poramed T
+    url: https://github.com/Poramedt
+date: 2021-10-18
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Job Example
+  - Description
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(tidyverse)
+ggplot(mtcars, aes(mpg, hp)) +
+  geom_point() +
+  geom_smooth()
+```
+
+
