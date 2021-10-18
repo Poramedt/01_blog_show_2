@@ -3,12 +3,14 @@ title: "Welcome to Cityhome Blog 2"
 description: |
   Welcome to our new blog, Cityhome Blog 2. We hope you enjoy 
   reading what we have to say!
+  ยินดีต้อนรับ
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Poramed T 
+    url: https://github.com/Poramedt
+    affiliation: Data Analytic
+    affiliation_url: https://github.com/Poramedt/01_blog_show_2
 date: 10-18-2021
+preview: 1.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -22,5 +24,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+![](1.jpg)
+
+### Welcome
+
+Bangkok[a] is the capital and most populous city of Thailand. It is known in Thai as Krung Thep Maha Nakhon[b] or simply Krung Thep.[c] The city occupies 1,568.7 square kilometres (605.7 sq mi) in the Chao Phraya River delta in central Thailand and has an estimated population of 10.539 million as of 2020, 15.3 percent of the country's population. Over fourteen million people (22.2 percent) lived within the surrounding Bangkok Metropolitan Region at the 2010 census, making Bangkok an extreme primate city, dwarfing Thailand's other urban centres in both size and importance to the national economy. 
+
+### ยินดีต้อนรับ
+
+กรุงเทพมหานคร เป็นเมืองหลวงและนครที่มีประชากรมากที่สุดของประเทศไทย เป็นศูนย์กลางการปกครอง การศึกษา การคมนาคมขนส่ง การเงินการธนาคาร การพาณิชย์ การสื่อสาร และความเจริญของประเทศ ตั้งอยู่บนสามเหลี่ยมปากแม่น้ำเจ้าพระยา มีแม่น้ำเจ้าพระยาไหลผ่านและแบ่งเมืองออกเป็น 2 ฝั่ง คือ ฝั่งพระนครและฝั่งธนบุรี กรุงเทพมหานครมีพื้นที่ทั้งหมด 1,568.737 ตร.กม. มีประชากรตามทะเบียนราษฎรกว่า 6 ล้านคน ทำให้กรุงเทพมหานครจัดเป็นเอกนคร (Primate City) มีผู้กล่าวว่า กรุงเทพมหานครเป็น "เอกนครที่สุดในโลก" เพราะมีประชากรมากกว่านครที่มีประชากรมากเป็นอันดับ 2 ถึง 40 เท่า[3]
 
 
