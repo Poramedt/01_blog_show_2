@@ -1,7 +1,7 @@
 ---
 title: "Location of us"
 description: |
-  Where can you find us.
+  Where can you find us in Thailand.
 author:
   - name: Poramed T
     url: https://github.com/Poramedt

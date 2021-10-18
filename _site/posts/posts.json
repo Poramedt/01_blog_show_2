@@ -1,24 +1,5 @@
 [
   {
-    "path": "posts/2021-10-18-location-of-us/",
-    "title": "Location of us",
-    "description": "Where can you find us.",
-    "author": [
-      {
-        "name": "Poramed T",
-        "url": "https://github.com/Poramedt"
-      }
-    ],
-    "date": "2021-10-18",
-    "categories": [
-      "Description"
-    ],
-    "contents": "\r\n\r\nWattana\r\nWatthana or Vadhana (Thai: วัฒนา, pronounced [wát.tʰā.nāː]) is one of the 50 districts (khet) of Bangkok, Thailand. Neighbouring districts are (from the north clockwise): Ratchathewi, Huai Khwang, Suan Luang, Phra Khanong, Khlong Toei, and Pathum Wan.\r\nเขตวัฒนา\r\nเขตวัฒนาตั้งอยู่บริเวณทางฝั่งตะวันออกของแม่น้ำเจ้าพระยาหรือฝั่งพระนคร มีอาณาเขตริมฟากถนนสุขุมวิทฝั่งเลขคี่ ตั้งแต่ซอยสุขุมวิท 1 ถึงซอยสุขุมวิท 81 โดยติดต่อกับเขตต่าง ๆ เรียงตามเข็มนาฬิกา ดังนี้\r\nทิศเหนือ ติดต่อกับเขตราชเทวีและเขตห้วยขวาง มีคลองแสนแสบเป็นเส้นแบ่งเขต\r\nทิศตะวันออก ติดต่อกับเขตสวนหลวง มีคลองตัน คลองพระโขนง และคลองบางนางจีนเป็นเส้นแบ่งเขต\r\nทิศใต้และทิศตะวันตกเฉียงใต้ ติดต่อกับเขตพระโขนงและเขตคลองเตย มีซอยสุขุมวิท 81 (ศิริพจน์) และถนนสุขุมวิทฟากเหนือเป็นเส้นแบ่งเขต\r\nทิศตะวันตก ติดต่อกับเขตปทุมวัน มีขอบทางรถไฟสายแม่น้ำฟากตะวันออกเป็นเส้นแบ่งเขต\r\n\r\n\r\n\r\n",
-    "preview": "posts/2021-10-18-location-of-us/2.jpg",
-    "last_modified": "2021-10-18T12:33:34+07:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/welcome/",
     "title": "Welcome to Cityhome Blog 2",
     "description": "Welcome to our new blog, Cityhome Blog 2. We hope you enjoy \nreading what we have to say!\nยินดีต้อนรับ",
@@ -34,5 +15,24 @@
     "preview": "posts/welcome/1.jpg",
     "last_modified": "2021-10-18T12:41:03+07:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2021-10-18-location-of-us/",
+    "title": "Location of us",
+    "description": "Where can you find us in Thailand.",
+    "author": [
+      {
+        "name": "Poramed T",
+        "url": "https://github.com/Poramedt"
+      }
+    ],
+    "date": "2021-10-18",
+    "categories": [
+      "Description"
+    ],
+    "contents": "\r\n\r\nWattana\r\nWatthana or Vadhana (Thai: วัฒนา, pronounced [wát.tʰā.nāː]) is one of the 50 districts (khet) of Bangkok, Thailand. Neighbouring districts are (from the north clockwise): Ratchathewi, Huai Khwang, Suan Luang, Phra Khanong, Khlong Toei, and Pathum Wan.\r\nเขตวัฒนา\r\nเขตวัฒนาตั้งอยู่บริเวณทางฝั่งตะวันออกของแม่น้ำเจ้าพระยาหรือฝั่งพระนคร มีอาณาเขตริมฟากถนนสุขุมวิทฝั่งเลขคี่ ตั้งแต่ซอยสุขุมวิท 1 ถึงซอยสุขุมวิท 81 โดยติดต่อกับเขตต่าง ๆ เรียงตามเข็มนาฬิกา ดังนี้\r\nทิศเหนือ ติดต่อกับเขตราชเทวีและเขตห้วยขวาง มีคลองแสนแสบเป็นเส้นแบ่งเขต\r\nทิศตะวันออก ติดต่อกับเขตสวนหลวง มีคลองตัน คลองพระโขนง และคลองบางนางจีนเป็นเส้นแบ่งเขต\r\nทิศใต้และทิศตะวันตกเฉียงใต้ ติดต่อกับเขตพระโขนงและเขตคลองเตย มีซอยสุขุมวิท 81 (ศิริพจน์) และถนนสุขุมวิทฟากเหนือเป็นเส้นแบ่งเขต\r\nทิศตะวันตก ติดต่อกับเขตปทุมวัน มีขอบทางรถไฟสายแม่น้ำฟากตะวันออกเป็นเส้นแบ่งเขต\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-10-18-location-of-us/2.jpg",
+    "last_modified": "2021-10-18T12:43:30+07:00",
+    "input_file": "location-of-us.knit.md"
   }
 ]
