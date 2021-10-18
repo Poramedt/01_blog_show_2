@@ -1,9 +1,10 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  To explain about Cityhome.
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
