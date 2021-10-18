@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-10-18T11:55:26+07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Cityhome Blog 2",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-10-18T11:55:27+07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
