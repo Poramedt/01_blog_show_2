@@ -1,14 +1,17 @@
 ---
 title: "Location of us"
 description: |
-  A short description of the post.
+  Where can you find us.
 author:
-  - name: Nora Jones
-    url: https://example.com/norajones
+  - name: Poramed T
+    url: https://github.com/Poramedt
 date: 2021-10-18
+preview: 2.jpg
 output:
   distill::distill_article:
     self_contained: false
+categories:
+  - Description
 ---
 
 
@@ -16,8 +19,17 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+![](2.jpg)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+### Wattana
 
+Watthana or Vadhana (Thai: วัฒนา, pronounced [wát.tʰā.nāː]) is one of the 50 districts (khet) of Bangkok, Thailand. Neighbouring districts are (from the north clockwise): Ratchathewi, Huai Khwang, Suan Luang, Phra Khanong, Khlong Toei, and Pathum Wan. 
 
+### เขตวัฒนา
+
+เขตวัฒนาตั้งอยู่บริเวณทางฝั่งตะวันออกของแม่น้ำเจ้าพระยาหรือฝั่งพระนคร มีอาณาเขตริมฟากถนนสุขุมวิทฝั่งเลขคี่ ตั้งแต่ซอยสุขุมวิท 1 ถึงซอยสุขุมวิท 81 โดยติดต่อกับเขตต่าง ๆ เรียงตามเข็มนาฬิกา ดังนี้
+
+    ทิศเหนือ ติดต่อกับเขตราชเทวีและเขตห้วยขวาง มีคลองแสนแสบเป็นเส้นแบ่งเขต
+    ทิศตะวันออก ติดต่อกับเขตสวนหลวง มีคลองตัน คลองพระโขนง และคลองบางนางจีนเป็นเส้นแบ่งเขต
+    ทิศใต้และทิศตะวันตกเฉียงใต้ ติดต่อกับเขตพระโขนงและเขตคลองเตย มีซอยสุขุมวิท 81 (ศิริพจน์) และถนนสุขุมวิทฟากเหนือเป็นเส้นแบ่งเขต
+    ทิศตะวันตก ติดต่อกับเขตปทุมวัน มีขอบทางรถไฟสายแม่น้ำฟากตะวันออกเป็นเส้นแบ่งเขต
